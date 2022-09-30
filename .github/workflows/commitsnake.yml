@@ -15,14 +15,17 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: generate commitsnake.svg
+      - name: generate commitsnake svgs
         uses: Platane/snk/svg-only@v2
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: dist/commitsnake.svg
+          outputs: |
+            dist/commitsnake.svg?palette=github-light
+            dist/commitsnake-dark.svg?palette=github-dark
+          
 
 
-      - name: push commitsnake.svg to the output branch
+      - name: push commitsnake svgs to the output branch
         uses: crazy-max/ghaction-github-pages@v2.6.0
         with:
           target_branch: output
