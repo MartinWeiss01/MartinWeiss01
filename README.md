@@ -7,7 +7,13 @@
 ###
 
 <div align="center">
-  <a href="https://martinweiss.cz/" target="_blank"><img src="https://raw.githubusercontent.com/MartinWeiss01/MartinWeiss01/output/commitsnake.svg" alt="Commits Snake Grid" /></a>
+  <a href="https://martinweiss.cz/" target="_blank">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MartinWeiss01/MartinWeiss01/output/commitsnake-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MartinWeiss01/MartinWeiss01/output/commitsnake.svg">
+      <img alt="Commits Snake Grid" src="https://raw.githubusercontent.com/MartinWeiss01/MartinWeiss01/output/commitsnake.svg">
+    </picture>
+  </a>
 </div>
 
 ###
