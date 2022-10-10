@@ -11,7 +11,7 @@
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MartinWeiss01/MartinWeiss01/output/commitsnake-dark.svg">
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MartinWeiss01/MartinWeiss01/output/commitsnake.svg">
-      <img alt="Commits Snake Grid" src="https://raw.githubusercontent.com/MartinWeiss01/MartinWeiss01/output/commitsnake.svg">
+      <img title="My commits" alt="Commits Snake Grid" src="https://raw.githubusercontent.com/MartinWeiss01/MartinWeiss01/output/commitsnake.svg">
     </picture>
   </a>
 </div>
@@ -19,8 +19,8 @@
 ###
 
 <div align="center">
-  <a href="https://martinweiss.cz/" target="_blank"><img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&username=MartinWeiss01" height="150" alt="Martin Weiss | Stats"  /></a>
-  <a href="https://martinweiss.cz/" target="_blank"><img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=outrun&hide_border=true&username=MartinWeiss01" height="150" alt="Martin Weiss | Languages"  /></a>
+  <a href="https://martinweiss.cz/" target="_blank"><img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&username=MartinWeiss01" height="150" alt="Martin Weiss | Stats" title="Martin Weiss | Stats" /></a>
+  <a href="https://martinweiss.cz/" target="_blank"><img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=outrun&hide_border=true&username=MartinWeiss01" height="150" alt="Martin Weiss | Languages" title="Martin Weiss | Languages" /></a>
 </div>
 
 ###
@@ -30,14 +30,13 @@
 ###
 
 <div align="left">
-  <a href="https://martinweiss.cz/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  /></a>
-  <a href="https://martinweiss.cz/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="40" width="52" alt="typescript logo"  /></a>
-  <a href="https://martinweiss.cz/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" width="52" alt="kotlin logo"  /></a>
-  <a href="https://martinweiss.cz/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="40" width="52" alt="java logo"  /></a>
-  <a href="https://martinweiss.cz/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="40" width="52" alt="python logo"  /></a>
-  <a href="https://martinweiss.cz/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" height="40" width="52" alt="php logo"  /></a>
-  <a href="https://martinweiss.cz/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" height="40" width="52" alt="csharp logo"  /></a>
-  <a href="https://martinweiss.cz/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" height="40" width="52" alt="cplusplus logo"  /></a>
+  <a href="https://martinweiss.cz/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" title="Javascript" alt="Javascript" /></a>
+  <a href="https://martinweiss.cz/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" width="52" title="Kotlin" alt="Kotlin" /></a>
+  <a href="https://martinweiss.cz/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="40" width="52" title="Java" alt="Java" /></a>
+  <a href="https://martinweiss.cz/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="40" width="52" title="Python" alt="Python" /></a>
+  <a href="https://martinweiss.cz/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" height="40" width="52" title="PHP" alt="PHP" /></a>
+  <a href="https://martinweiss.cz/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" height="40" width="52" title="C#" alt="C#" /></a>
+  <a href="https://martinweiss.cz/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" height="40" width="52" title="C++" alt="C++" /></a>
 </div>
 
 ###
@@ -47,15 +46,15 @@
 ###
 
 <div align="left">
-  <a href="https://martinweiss.cz/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  /></a>
-  <a href="https://martinweiss.cz/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" width="52" alt="nextjs logo"  /></a>
-  <a href="https://martinweiss.cz/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" width="52" alt="redux logo"  /></a>
-  <a href="https://martinweiss.cz/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="40" width="52" alt="webpack logo"  /></a>
-  <a href="https://martinweiss.cz/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" width="52" alt="tailwindcss logo"  /></a>
-  <a href="https://martinweiss.cz/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" width="52" alt="bootstrap logo"  /></a>
-  <a href="https://martinweiss.cz/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="40" width="52" alt="html5 logo"  /></a>
-  <a href="https://martinweiss.cz/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="40" width="52" alt="css3 logo"  /></a>
-  <a href="https://martinweiss.cz/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" height="40" width="52" alt="jquery logo"  /></a>
+  <a href="https://martinweiss.cz/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" title="React" alt="React" /></a>
+  <a href="https://martinweiss.cz/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" width="52" title="Next.js" alt="Next.js" /></a>
+  <a href="https://martinweiss.cz/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" width="52" title="Redux Toolkit" alt="Redux Toolkit" /></a>
+  <a href="https://martinweiss.cz/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="40" width="52" title="Webpack" alt="Webpack" /></a>
+  <a href="https://martinweiss.cz/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" width="52" title="TailwindCSS" alt="TailwindCSS" /></a>
+  <a href="https://martinweiss.cz/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" width="52" title="Bootstrap" alt="Bootstrap" /></a>
+  <a href="https://martinweiss.cz/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="40" width="52" title="HTML5" alt="HTML5" /></a>
+  <a href="https://martinweiss.cz/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="40" width="52" title="CSS3" alt="CSS3" /></a>
+  <a href="https://martinweiss.cz/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" height="40" width="52" title="jQuery" alt="jQuery" /></a>
 </div>
 
 ###
@@ -65,11 +64,11 @@
 ###
 
 <div align="left">
-  <a href="https://martinweiss.cz/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" height="40" width="52" alt="nodejs logo"  /></a>
-  <a href="https://martinweiss.cz/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" width="52" alt="express logo"  /></a>
-  <a href="https://martinweiss.cz/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" width="52" alt="nginx logo"  /></a>
-  <a href="https://martinweiss.cz/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-plain-wordmark.svg" height="40" width="52" alt="apache logo"  /></a>
-  <a href="https://martinweiss.cz/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="40" width="52" alt="socketio logo"  /></a>
+  <a href="https://martinweiss.cz/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" height="40" width="52" title="Node.js" alt="Node.js" /></a>
+  <a href="https://martinweiss.cz/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" width="52" title="Express.js" alt="Express.js" /></a>
+  <a href="https://martinweiss.cz/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" width="52" title="Nginx" alt="Nginx" /></a>
+  <a href="https://martinweiss.cz/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-plain-wordmark.svg" height="40" width="52" title="Apache Web Server" alt="Apache Web Server" /></a>
+  <a href="https://martinweiss.cz/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="40" width="52" title="Socket.IO" alt="Socket.IO" /></a>
 </div>
 
 ###
@@ -79,9 +78,9 @@
 ###
 
 <div align="left">
-  <a href="https://martinweiss.cz/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" alt="mysql logo"  /></a>
-  <a href="https://martinweiss.cz/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" height="40" width="52" alt="postgresql logo"  /></a>
-  <a href="https://martinweiss.cz/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" width="52" alt="oracle logo"  /></a>
+  <a href="https://martinweiss.cz/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" title="MySQL" alt="MySQL" /></a>
+  <a href="https://martinweiss.cz/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" height="40" width="52" title="PostgreSQL" alt="PostgreSQL" /></a>
+  <a href="https://martinweiss.cz/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" width="52" title="Oracle Database" alt="Oracle Database" /></a>
 </div>
 
 ###
@@ -91,19 +90,19 @@
 ###
 
 <div align="left">
-  <a href="https://martinweiss.cz/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" alt="vscode logo"  /></a>
-  <a href="https://martinweiss.cz/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" width="52" alt="slack logo"  /></a>
-  <a href="https://martinweiss.cz/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  /></a>
-  <a href="https://martinweiss.cz/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" width="52" alt="github logo"  /></a>
-  <a href="https://martinweiss.cz/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" height="40" width="52" alt="bitbucket logo"  /></a>
-  <a href="https://martinweiss.cz/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-plain.svg" height="40" width="52" alt="putty logo"  /></a>
-  <a href="https://martinweiss.cz/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg" height="40" width="52" alt="trello logo"  /></a>
-  <a href="https://martinweiss.cz/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" height="40" width="52" alt="photoshop logo"  /></a>
-  <a href="https://martinweiss.cz/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" height="40" width="52" alt="illustrator logo"  /></a>
-  <a href="https://martinweiss.cz/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-line.svg" height="40" width="52" alt="xd logo"  /></a>
-  <a href="https://martinweiss.cz/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/centos/centos-original.svg" height="40" width="52" alt="centos logo"  /></a>
-  <a href="https://martinweiss.cz/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="40" width="52" alt="debian logo"  /></a>
-  <a href="https://martinweiss.cz/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" height="40" width="52" alt="redhat logo"  /></a>
+  <a href="https://martinweiss.cz/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" title="Visual Studio Code" alt="Visual Studio Code" /></a>
+  <a href="https://martinweiss.cz/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" width="52" title="Slack" alt="Slack" /></a>
+  <a href="https://martinweiss.cz/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" title="git" alt="git" /></a>
+  <a href="https://martinweiss.cz/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" width="52" title="GitHub" alt="GitHub" /></a>
+  <a href="https://martinweiss.cz/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" height="40" width="52" title="Bitbucket" alt="Bitbucket" /></a>
+  <a href="https://martinweiss.cz/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-plain.svg" height="40" width="52" title="PuTTy" alt="PuTTy" /></a>
+  <a href="https://martinweiss.cz/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg" height="40" width="52" title="Trello" alt="Trello" /></a>
+  <a href="https://martinweiss.cz/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" height="40" width="52" title="Adobe Photoshop" alt="Adobe Photoshop" /></a>
+  <a href="https://martinweiss.cz/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" height="40" width="52" title="Adobe Illustrator" alt="Adobe Illustrator" /></a>
+  <a href="https://martinweiss.cz/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-line.svg" height="40" width="52" title="Adobe XD" alt="Adobe XD" /></a>
+  <a href="https://martinweiss.cz/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/centos/centos-original.svg" height="40" width="52" title="CentOS 7/8" alt="CentOS 7/8" /></a>
+  <a href="https://martinweiss.cz/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="40" width="52" title="Debian 11" alt="Debian 11" /></a>
+  <a href="https://martinweiss.cz/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" height="40" width="52" title="RHEL" alt="RHEL" /></a>
 </div>
 
 ###
