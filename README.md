@@ -21,16 +21,16 @@
 <div align="center">
     <a href="https://martinweiss.cz/" target="_blank">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ruby-one.vercel.app/api?hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&username=MartinWeiss01">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ruby-one.vercel.app/api?hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=buefy&locale=en&hide_border=true&username=MartinWeiss01">
-      <img height="150" alt="Martin Weiss | Stats" title="Martin Weiss | Stats" src="https://github-readme-stats-ruby-one.vercel.app/api?hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=buefy&locale=en&hide_border=true&username=MartinWeiss01">
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&username=MartinWeiss01">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=buefy&locale=en&hide_border=true&username=MartinWeiss01">
+      <img height="150" alt="Martin Weiss | Stats" title="Martin Weiss | Stats" src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=buefy&locale=en&hide_border=true&username=MartinWeiss01">
     </picture>
   </a>
   <a href="https://martinweiss.cz/" target="_blank">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ruby-one.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=outrun&hide_border=true&username=MartinWeiss01">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ruby-one.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=swift&hide_border=true&username=MartinWeiss01">
-      <img height="150" alt="Martin Weiss | Languages" title="Martin Weiss | Languages" src="https://github-readme-stats-ruby-one.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=swift&hide_border=true&username=MartinWeiss01">
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=outrun&hide_border=true&username=MartinWeiss01">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=swift&hide_border=true&username=MartinWeiss01">
+      <img height="150" alt="Martin Weiss | Languages" title="Martin Weiss | Languages" src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=swift&hide_border=true&username=MartinWeiss01">
     </picture>
   </a>
 </div>
