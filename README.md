@@ -62,7 +62,7 @@
   <a href="https://martinweiss.cz/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" width="52" title="Next.js" alt="Next.js" /></a>
   <a href="https://martinweiss.cz/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" width="52" title="Redux Toolkit" alt="Redux Toolkit" /></a>
   <a href="https://martinweiss.cz/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="40" width="52" title="Webpack" alt="Webpack" /></a>
-  <a href="https://martinweiss.cz/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" width="52" title="TailwindCSS" alt="TailwindCSS" /></a>
+  <a href="https://martinweiss.cz/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" height="40" width="52" title="TailwindCSS" alt="TailwindCSS" /></a>
   <a href="https://martinweiss.cz/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" width="52" title="Bootstrap" alt="Bootstrap" /></a>
   <a href="https://martinweiss.cz/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="40" width="52" title="HTML5" alt="HTML5" /></a>
   <a href="https://martinweiss.cz/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="40" width="52" title="CSS3" alt="CSS3" /></a>
